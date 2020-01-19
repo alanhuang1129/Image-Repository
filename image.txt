@@ -1,0 +1,6 @@
+ImageName,ImageColour,ImageType,ImageStock,ImagePrice,ImageDiscount
+Men's Timberland Waterproof Chukka Boots,Black,Shoes,20,150.00,40
+Men's Mt. Cabot Hybrid Jacket,Black,Jacket,15,175.00,31
+Men's Timberland PRO Wicking Good Short Sleeve T-Shirt,Orange,Shirt,8,40.00,30
+Women's Cooling Boat Shoe Liner Socks (3-Pack),White,Socks,14,22.50,24
+Women's Long Brushed Scarf,Grey,Scarf,23,56.00,29
